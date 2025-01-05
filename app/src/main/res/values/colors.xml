@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color  name="lightgray">#363A43</color>
+    <color name="ligthergray">#7A8089</color>
+    <color name="strokeOptionColor">#E8E8E8</color>
+    <color name="defaultOption">#7A8089</color>
+</resources>
